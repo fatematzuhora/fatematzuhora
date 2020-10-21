@@ -1,3 +1,10 @@
+![Fatema T. Zuhora's github stats](https://github-readme-stats.vercel.app/api?username=fatematzuhora&show_icons=true&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatematzuhora&theme=nightowl)
+
+*NOTE: Top languages are all about a metric by GitHub itself, which basically indicates on which languages I have coded the most on GitHub.*
+
+---
+
 ### 👋 Hi there, I'm Fatema T. Zuhora
 
 Self-taught programmer, quick learner & Full Stack Software Developer with a can-do attitude.
@@ -37,14 +44,6 @@ Self-taught programmer, quick learner & Full Stack Software Developer with a can
 <code>
     <img height="32" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">
 </code>
-
----
-<br/>
-
-![Fatema T. Zuhora's github stats](https://github-readme-stats.vercel.app/api?username=fatematzuhora&show_icons=true&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatematzuhora&theme=nightowl)
-
-*NOTE: Top languages are all about a metric by GitHub itself, which basically indicates on which languages I have code the most on GitHub.*
 
 ---
 
