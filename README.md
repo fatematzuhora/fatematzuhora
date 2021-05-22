@@ -1,5 +1,8 @@
-![Fatema T. Zuhora's github stats](https://github-readme-stats.vercel.app/api?username=fatematzuhora&show_icons=true&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatematzuhora&theme=nightowl)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=fatematzuhora&show_icons=true&count_private=true&theme=nightowl" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatematzuhora&theme=nightowl" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=fatematzuhora&theme=nightowl" />
+</div>
 
 *NOTE: Top languages are all about a metric by GitHub itself, which basically indicates on which languages I have coded the most on GitHub.*
 
